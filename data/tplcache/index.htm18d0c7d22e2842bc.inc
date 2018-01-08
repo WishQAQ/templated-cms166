@@ -1,0 +1,42 @@
+<?php
+$z[0]=Array("global","",254,280);
+$z[0][4]['name']="cfg_webname";
+$z[1]=Array("global","",324,354);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",391,418);
+$z[2][4]['name']="cfg_keywords";
+$z[3]=Array("channel","\r\n        <li><a href=\"[field:typeurl/]\">[field:typename/]</a></li>\r\n        ",3159,3284);
+$z[3][4]['type']="top";
+$z[3][4]['row']="6";
+$z[4]=Array("arclist","\r\n        <li class=\"a1\"><a href=\"[field:arcurl/]\" title=\"[field:title/]\" target=\"_blank\">[field:title/]</a><span>[field:pubdate function=\"MyDate('Y-m-d',@me)\"/]</span></li>\r\n        ",3676,3917);
+$z[4][4]['row']="6";
+$z[4][4]['titlelen']="60";
+$z[4][4]['typeid']="2";
+$z[5]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\"> <img src=\"/skin/images/sy_0.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_0.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",4300,4537);
+$z[5][4]['typeid']="12";
+$z[6]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_1.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_1.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",4547,4800);
+$z[6][4]['typeid']="10";
+$z[7]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_2.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_2.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",4810,5063);
+$z[7][4]['typeid']="11";
+$z[8]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_3.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_3.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",5073,5326);
+$z[8][4]['typeid']="16";
+$z[9]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_4.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_4.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",5336,5588);
+$z[9][4]['typeid']="6";
+$z[10]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_5.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_5.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",5598,5851);
+$z[10][4]['typeid']="13";
+$z[11]=Array("type","\r\n        <li> <a href=\"[field:typelink/]\" target=\"_blank\"> <img src=\"/skin/images/sy_6.jpg\" class=\"small_img\"> <img src=\"/skin/images/sys_big_6.jpg\" class=\"big_img\"> <span>[field:typename/]</span> </a> </li>\r\n        ",5861,6114);
+$z[11][4]['typeid']="14";
+$z[12]=Array("type","<a href=\"[field:typelink/]\"><img src=\"/skin/images/sy_34.jpg\"></a> ",6207,6309);
+$z[12][4]['typeid']="17";
+$z[13]=Array("arclist","\r\n<li><a href=\"[field:arcurl/]\" target=\"_blank\" title=\"[field:title/]\"><img src=\"[field:picname/]\"></a></li>\r\n",6321,6478);
+$z[13][4]['typeid']="17";
+$z[13][4]['row']="8";
+$z[14]=Array("type","<a href=\"[field:typelink/]\"><img src=\"/skin/images/sy_59.jpg\"></a>",6549,6650);
+$z[14][4]['typeid']="24";
+$z[15]=Array("arclist","\r\n      <li><a href=\"[field:arcurl/]\"  title=\"[field:title/]\"><img src=\"[field:picname/]\"></a></li>\r\n      ",6672,6826);
+$z[15][4]['typeid']="24";
+$z[15][4]['row']="7";
+$z[16]=Array("include","",6913,6950);
+$z[16][4]['filename']="footer.htm";
+
+?>

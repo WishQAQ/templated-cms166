@@ -1,0 +1,3 @@
+INSERT INTO `dede_flink` VALUES('10','1','http://www.zhankuba.com','织梦模板','','','','1435211961','1','2');
+INSERT INTO `dede_flink` VALUES('12','1','http://www.zhankuba.com','技术支持','','','','1435211973','1','2');
+INSERT INTO `dede_flink` VALUES('11','1','http://www.zhankuba.com','织梦源码','','','','1435211966','1','2');
